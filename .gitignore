@@ -1,0 +1,5 @@
+.venv
+/ny_taxi_db
+.env
+.DS_Store
+/data/yellow_tripdata_2021-01.csv
