@@ -3,3 +3,4 @@
 .env
 .DS_Store
 /data/yellow_tripdata_2021-01.csv
+sql_queries.md
